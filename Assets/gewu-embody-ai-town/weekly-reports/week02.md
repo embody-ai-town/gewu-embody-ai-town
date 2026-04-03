@@ -48,3 +48,15 @@ https://github.com/user-attachments/assets/3d4057a7-9bcb-422b-9041-20e2cbed24ce
 
 
 [录屏 04-03-2026 08:49:23 PM.webm](https://github.com/user-attachments/assets/a7f3224d-0df3-4310-82eb-5a4d6e2a6065)
+
+
+
+下周任务：
+
+1、人物角色优化
+
+2、自主导航系统
+
+3、人物角色语库
+
+4、LLM对话系统
