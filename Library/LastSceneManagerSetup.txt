@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/gewu-embody-ai-town/embody-ai-town.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
