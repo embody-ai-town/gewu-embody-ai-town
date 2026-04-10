@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/6f3229b2-cc10-4000-babd-18f2886c950a
 第三周
 
 1、实现了自主导航（鼠标点击哪里，机器人就往哪里走）
@@ -5,6 +7,7 @@
 2、5个角色优化
 
 
+ding 34ed457beeb7ea69931a34bbfcce4c75.mp4…
 
-https://github.com/user-attachments/assets/f9579046-e78c-4e63-9ed8-c5764c151cb2
+
 
