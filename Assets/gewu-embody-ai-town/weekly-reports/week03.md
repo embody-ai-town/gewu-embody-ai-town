@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/6f3229b2-cc10-4000-babd-18f2886c950a
 第三周
 
 1、实现了自主导航（鼠标点击哪里，机器人就往哪里走）
